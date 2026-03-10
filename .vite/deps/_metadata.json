@@ -1,0 +1,100 @@
+{
+  "hash": "7b473da2",
+  "configHash": "645029a0",
+  "lockfileHash": "86aa5e0d",
+  "browserHash": "f25d9af8",
+  "optimized": {
+    "@clerk/clerk-react": {
+      "src": "../../node_modules/@clerk/clerk-react/dist/index.mjs",
+      "file": "@clerk_clerk-react.js",
+      "fileHash": "22273a1d",
+      "needsInterop": false
+    },
+    "lucide-react": {
+      "src": "../../node_modules/lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "181915ba",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "dc27de60",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "743f0d8a",
+      "needsInterop": true
+    },
+    "react-hot-toast": {
+      "src": "../../node_modules/react-hot-toast/dist/index.mjs",
+      "file": "react-hot-toast.js",
+      "fileHash": "d31c1de3",
+      "needsInterop": false
+    },
+    "react-player": {
+      "src": "../../node_modules/react-player/dist/index.js",
+      "file": "react-player.js",
+      "fileHash": "c72d67a3",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "8de5b2ce",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "react-X42IFFUS": {
+      "file": "react-X42IFFUS.js"
+    },
+    "Preview-G77DWWM2": {
+      "file": "Preview-G77DWWM2.js"
+    },
+    "dash.all.min-5EALIWQN": {
+      "file": "dash__all__min-5EALIWQN.js"
+    },
+    "react-DW6B4GL5": {
+      "file": "react-DW6B4GL5.js"
+    },
+    "dist-UT2AY57N": {
+      "file": "dist-UT2AY57N.js"
+    },
+    "react-MRLRLYWL": {
+      "file": "react-MRLRLYWL.js"
+    },
+    "react-I4SQEIBW": {
+      "file": "react-I4SQEIBW.js"
+    },
+    "react-OZG6CXLQ": {
+      "file": "react-OZG6CXLQ.js"
+    },
+    "react-KR6RIFT2": {
+      "file": "react-KR6RIFT2.js"
+    },
+    "react-6TY2JXQI": {
+      "file": "react-6TY2JXQI.js"
+    },
+    "chunk-PKMJPQ7I": {
+      "file": "chunk-PKMJPQ7I.js"
+    },
+    "react-473PUT2R": {
+      "file": "react-473PUT2R.js"
+    },
+    "chunk-2Z7XSGTS": {
+      "file": "chunk-2Z7XSGTS.js"
+    },
+    "chunk-47XG6PNZ": {
+      "file": "chunk-47XG6PNZ.js"
+    },
+    "chunk-WPM43DEG": {
+      "file": "chunk-WPM43DEG.js"
+    },
+    "chunk-G3PMV62Z": {
+      "file": "chunk-G3PMV62Z.js"
+    }
+  }
+}
