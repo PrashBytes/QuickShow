@@ -4,6 +4,7 @@ import dotenv from 'dotenv';
 import connectDB from './configs/db.js';
 import { serve } from 'inngest/express';
 import { inngest, functions } from './inngest/index.js';
+import { clerkMiddleware } from '@clerk/express'
 
 dotenv.config({ path: './.env' });
 
@@ -16,6 +17,7 @@ await connectDB();
 // Middleware
 app.use(express.json());
 app.use(cors());
+app.use(clerkMiddleware());
 
 // Test route
 app.get('/', (req, res) => res.send('Server is Live!'));
